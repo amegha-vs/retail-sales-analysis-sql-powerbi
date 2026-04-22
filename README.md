@@ -73,7 +73,7 @@ It was manually created using SQL INSERT statements, which helped in understandi
 
 ## 📁 Project Files
 - [SQL Script](./RetailSales.sql)  
-- [Power BI Dashboard](./Retail Sales Analysis.pbix)  
+- [Power BI Dashboard](./Retail_Sales_Analysis.pbix)
 - [Dashboard Screenshot](./Dashboard.png)      
 
 ---
